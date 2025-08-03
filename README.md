@@ -12,7 +12,7 @@
 <h3 align="center">🚀 Technologies & Tools I Use</h3>
 <p align="center">
   <img alt="Apache Cordova" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="40" height="40" />
-  <img src="https://novaxjs2.vercel.app/logo.png" width="40" height="40" alt="Novaxjs2 logo">
+  <img src="https://www.novaxjs2.site/logo.png" width="40" height="40" alt="Novaxjs2 logo">
   <img alt="Appwrite" src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40" />
   <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
   <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />

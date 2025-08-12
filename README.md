@@ -55,7 +55,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhoappRoom&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cabdiwaaxid-so&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
